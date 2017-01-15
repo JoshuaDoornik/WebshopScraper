@@ -1,1 +1,9 @@
 C:\Users\Josh\Documents\GitHub\WebshopScraper\WebshopScraper\bin\Debug\WebshopScraper.exe.config
+C:\Users\Josh\Documents\GitHub\WebshopScraper\WebshopScraper\obj\Debug\WebshopScraper.csprojResolveAssemblyReference.cache
+C:\Users\Josh\Documents\GitHub\WebshopScraper\WebshopScraper\bin\Debug\WebshopScraper.exe
+C:\Users\Josh\Documents\GitHub\WebshopScraper\WebshopScraper\bin\Debug\WebshopScraper.pdb
+C:\Users\Josh\Documents\GitHub\WebshopScraper\WebshopScraper\bin\Debug\HtmlAgilityPack.dll
+C:\Users\Josh\Documents\GitHub\WebshopScraper\WebshopScraper\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\Josh\Documents\GitHub\WebshopScraper\WebshopScraper\bin\Debug\HtmlAgilityPack.xml
+C:\Users\Josh\Documents\GitHub\WebshopScraper\WebshopScraper\obj\Debug\WebshopScraper.exe
+C:\Users\Josh\Documents\GitHub\WebshopScraper\WebshopScraper\obj\Debug\WebshopScraper.pdb

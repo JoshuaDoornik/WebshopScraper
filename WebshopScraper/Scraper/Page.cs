@@ -6,7 +6,10 @@ using System.Threading.Tasks;
 
 namespace WebshopScraper.Scraper
 {
-    class Settings
+    class Page
     {
+        private string Url { get; set; }
+        private string Title { get; set; }
+        private string ImgUrl { get; set; }
     }
 }
